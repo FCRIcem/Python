@@ -1,0 +1,12 @@
+# kurpiyer_kart_ekle = random.sample(cards,1)
+#             kurpiyer_kartlari += kurpiyer_kart_ekle
+#             kurpiyet_top_kart =sum(kurpiyer_kartlari+kurpiyer_kartlari2)
+#             print(f"Kurpiyerin Kartları : [ {kurpiyer_kartlari},{kurpiyer_kartlari2} = {kurpiyet_top_kart}] \n sizin kartlarınız [ {oyuncu_kartlari} ] = {oyuncu_k_toplam} ")
+#             if kurpiyet_top_kart == 21 or oyuncu_k_toplam > 21:
+#                 print('kaybettiniz')
+#             elif kurpiyet_top_kart == oyuncu_k_toplam or kurpiyet_top_kart > 21 and oyuncu_k_toplam > 21 :
+#                 print(' berabere ')
+#             elif oyuncu_k_toplam > kurpiyet_top_kart or kurpiyet_top_kart > 21:
+#                 print('kazandınız')
+#             else:
+#                 print('deneme')
